@@ -1,11 +1,5 @@
 def charCount(t):
-    """
-    Retrieves data from a text file and returns a dictionary where the keys are unique characters
-    (excluding whitespace) and the values are the counts of occurrences of each character.
-
-    :param t: Path to the text file
-    :return: Dictionary with characters as keys and their counts as values
-    """
+   
     char_dict = {}
 
     try:
